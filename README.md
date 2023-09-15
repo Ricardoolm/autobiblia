@@ -24,6 +24,24 @@ Este arquivo fornece uma explicação do código Python que envolve a leitura de
 5. Mensagens para o Usuário:
    - Mensagens informativas são exibidas para o usuário para indicar como ativar o macro e soltar uma piada.
    - O programa aguarda até que uma das teclas de ativação seja pressionada, e então executa a ação correspondente.
+## Como Rodar o Código:
+
+Para rodar este código, siga estas etapas:
+
+1. **Instale as Dependências:**
+   Certifique-se de que você tenha o Python instalado em seu computador. Você também precisa instalar a biblioteca `keyboard`. Você pode instalá-la usando o pip:
+   pip install -r requirements.txt
+   
+3. **Baixe os Arquivos:**
+Baixe todos os arquivos deste repositório, incluindo o arquivo Python (`autobiblia.py`), o arquivo de piadas (`biblia/piadas.txt`) e o arquivo de dados (`biblia/data.txt`).
+
+4. **Execute o Código:**
+Abra um terminal ou prompt de comando e navegue até o diretório onde você baixou os arquivos. Execute o código Python com o seguinte comando:
+
+5. **Ative o Macro ou Solte uma Piada:**
+Siga as instruções exibidas no terminal. Pressione a tecla `ctrl+x` para ativar o macro e `ctrl+q` para soltar uma piada.
+
+   
 
 Este código é projetado para fornecer uma maneira divertida de simular a digitação de piadas ou trechos de texto aleatórios e pode ser personalizado para adicionar mais piadas ao arquivo de texto ou ajustar as teclas de ativação conforme necessário. Lembre-se de que você pode trocar o arquivo de texto (`'biblia/piadas.txt'`) por qualquer arquivo `.txt` de sua escolha e usar o código para simular a digitação desse texto.
 Divirta-se! 😄
