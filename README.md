@@ -25,6 +25,5 @@ Este arquivo fornece uma explicação do código Python que envolve a leitura de
    - Mensagens informativas são exibidas para o usuário para indicar como ativar o macro e soltar uma piada.
    - O programa aguarda até que uma das teclas de ativação seja pressionada, e então executa a ação correspondente.
 
-Este código é projetado para fornecer uma maneira divertida de simular a digitação de piadas ou trechos de texto aleatórios e pode ser personalizado para adicionar mais piadas ao arquivo de texto ou ajustar as teclas de ativação conforme necessário.
-
+Este código é projetado para fornecer uma maneira divertida de simular a digitação de piadas ou trechos de texto aleatórios e pode ser personalizado para adicionar mais piadas ao arquivo de texto ou ajustar as teclas de ativação conforme necessário. Lembre-se de que você pode trocar o arquivo de texto (`'biblia/piadas.txt'`) por qualquer arquivo `.txt` de sua escolha e usar o código para simular a digitação desse texto.
 Divirta-se! 😄
